@@ -1,4 +1,4 @@
-^#!/usr/bin/python3
+#!/usr/bin/python3
 """
 This module provides a script to fetch and export the TODO list progress
 of all employees from the JSONPlaceholder API into a JSON file.
